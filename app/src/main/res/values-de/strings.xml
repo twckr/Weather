@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="change_city">Stadt ändern</string>
+    <string name="about_page">Über</string>
+
+
+
+
+
+
+
+
+
+    <!--Day Icons-->
+
+    <!-- Night Icons -->
+
+
+
+
+    <string name="check_internet">Bitte Internetverbindung überprüfen</string>
+
+
+
+    <!-- Drawer Strings -->
+
+    <string name="Evening">Abend</string>
+
+
+    <!-- Target Strings -->
+
+
+    <!-- Widgets Strings -->
+
+    <!-- Bottom Bar Strings -->
+    <string name="bottom_rain">Regen</string>
+    <string name="bottom_wind">Wind</string>
+    <string name="bottom_temperature">Temperatur</string>
+
+    <!-- Graph Strings -->
+
+    <!-- Days -->
+
+    <!-- About -->
+    <string name="app_license">Lizenz</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
